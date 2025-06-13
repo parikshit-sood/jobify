@@ -32,6 +32,7 @@ Jobify follows a modular full-stack architecture widely used by startups.
 
 ## Project Structure
 
+```
 jobify/
 |-- apps/
 |---- frontend/
@@ -43,6 +44,7 @@ jobify/
 |-- docker-compose.yml
 |-- .env.local
 |-- README.md
+```
 
 ## License
 
